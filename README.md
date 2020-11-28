@@ -1,4 +1,4 @@
 # PemrogrammanMobile-6_MySQL
 
 Dibuat oleh Muhammad Hafizh F (18051204058)
-![Screenshot_20201128-164734](https://user-images.githubusercontent.com/58162094/100505173-490bc000-319f-11eb-8371-660af4f0895e.jpg)
+![Screenshot_20201128-164734](https://user-images.githubusercontent.com/58162094/100507748-0ac2d080-31a0-11eb-8fda-56c9ee15425a.jpg)
